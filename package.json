@@ -5,12 +5,12 @@
   "author": "yevhen.terentiev@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.8",
     "colors": "^1.4.0",
     "commander": "^7.0.0",
     "glob": "^7.1.6",
     "handlebars": "^4.7.6",
-    "prompt": "^1.1.0",
+    "prompt": "^1.2.0",
     "slugify": "^1.4.6",
     "yaml": "^1.10.0"
   },
